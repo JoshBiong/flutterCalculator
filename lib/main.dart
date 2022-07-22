@@ -174,7 +174,7 @@ Widget build(BuildContext context) {
 							: Colors.black,
 					);
 					}
-				}), // GridView.builder
+				},), // GridView.builder
 			),
 		),
 		],

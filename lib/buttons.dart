@@ -5,7 +5,7 @@ class MyButton extends StatelessWidget {
 
 // declaring variables
 final color;
-final textColor;
+final textColor;														
 final String buttonText;
 final buttontapped;
 
